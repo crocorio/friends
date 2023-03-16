@@ -1,24 +1,18 @@
-# README
+## Friends list app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This is the Friends list app. 
+This app is created as a list keeper for information regarding staff, users etc.
 
-* Ruby version
 
-* System dependencies
+The following chart is a template, and not created for the actual app. (at this moment)
 
-* Configuration
+READ.ME will be updated with more functions 
 
-* Database creation
+| Column             | Type   | Options                   |
+| ------------------ | ------ | --------------------------|
+| email              | string | null: false, unique: true |
+| encrypted_password | string | null: false               |
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
